@@ -1,6 +1,6 @@
 body {
 	font-family: helvetica Neue, helvetica, Arial;
-	font-size: 14px;
+	font-size: 18px;
 }
 
 #page {
@@ -17,7 +17,7 @@ body {
 	background: #f3f3f3;
 	padding: 7px 10px;
 	margin-bottom: 10px;
-	font-size: 14px;
+	font-size: 18px;
 	letter-spacing: 0.5px;
 }
 
@@ -48,14 +48,14 @@ body {
 
 #page table th {
 	padding: 5px 10px;
-	font-size: 15px;
+	font-size: 19px;
 	cursor: pointer;
 }
 
 #page table td {
 	border-bottom: 1px solid #eee;
 	vertical-align: middle;
-	font-size: 12px;
+	font-size: 16px;
 }
 
 #page table td a {
@@ -65,7 +65,7 @@ body {
     white-space: nowrap; 
 	overflow: hidden; 
 	text-overflow:ellipsis;
-	font-size: 13px;
+	font-size: 17px;
 }
 
 #page table img {
@@ -89,5 +89,5 @@ tr:hover td
 #footer address{
 	color: #aaa;
 	font-style: normal;
-	font-size: 12px;
+	font-size: 16px;
 }
